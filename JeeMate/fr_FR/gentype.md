@@ -243,4 +243,4 @@ Après téléchargement du plugin, vous devez commencer par l'activer.
 
 Test
 
-#include "file_gentype.md.md"
+#include "list_gentype.md"
