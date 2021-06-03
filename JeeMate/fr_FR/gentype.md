@@ -242,5 +242,4 @@ Après téléchargement du plugin, vous devez commencer par l'activer.
 
 
 Test
-
-#include "list_gentype.md"
+[Contribution guidelines for this project](list_gentype.md)
