@@ -66,7 +66,7 @@ La configuration des types génériques via le core Jeedom sont bienévidement p
 
 Sur la commande de votre équipement, cliquer sur ![Engrenage](../images/gentype/engrenage.png) afin d'ouvrir la page de configuration de la commande en question :
 
-![Configuration commande](../images/gentype/configuration_commande.png
+![Configuration commande](../images/gentype/configuration_commande.png)
 
 
 Configuration des types génériques sur vos équipements <a name="paragraphe6"></a>
