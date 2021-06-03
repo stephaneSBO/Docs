@@ -243,3 +243,4 @@ Après téléchargement du plugin, vous devez commencer par l'activer.
 
 Test
 [Contribution guidelines for this project](list_gentype.md)
+[List des génériques type supportés](index.md#paragraphe5)
