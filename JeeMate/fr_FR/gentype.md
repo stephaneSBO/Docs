@@ -239,3 +239,8 @@ Configuration du plugin JeeMate <a name="paragraphe6"></a>
 ==============================
 
 Après téléchargement du plugin, vous devez commencer par l'activer.
+
+
+Test
+
+#include "file_gentype.md.md"
