@@ -6,9 +6,6 @@ Ou sur le discord de DomoTech [Fil community](https://discord.gg/zvGTDfE)
 
 Cordialement
 Thibaut Et Pascal
-   
-   
-   
 
 
 Plugin officiel de l'application JeeMate sur Android.
@@ -67,6 +64,9 @@ La configuration des types génériques via le core Jeedom sont bienévidement p
 
 #### Configuration via le core Jeedom <a name="paragraphe5-1"></a>
 
+Sur la commande de votre équipement, cliquer sur ![Engrenage](../images/gentype/engrenage.png) afin d'ouvrir la page de configuration de la commande en question :
+
+![Configuration commande](../images/gentype/configuration_commande.png
 
 
 Configuration des types génériques sur vos équipements <a name="paragraphe6"></a>
