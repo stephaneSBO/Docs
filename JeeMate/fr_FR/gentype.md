@@ -101,14 +101,17 @@ La même configuration sous HomeBridge  :
 
 ![jeemate_equipement](../images/gentype/gentype_prise01_hb.png)
 Apercu dans l'application:
+| ON | OFF | Custo |
+| ----------- | -------- | -------- |
+| <img src="../images/gentype/gentype_prise_on.jpg" width="200">	|<img src="../images/gentype/gentype_prise_off.jpg" width="200">	|<img src="../images/gentype/animation.gif">	|
 
-<img src="../images/gentype/gentype_prise_on.jpg" width="200">
-<img src="../images/gentype/gentype_prise_off.jpg" width="200">
+
+
 
 Possibilité de modification du visuel 
 => lien vers la documentation
 
-<img src="../images/gentype/animation.gif">
+
 
 ___
 ### Lumière <a name="paragraphe5-2"></a>
