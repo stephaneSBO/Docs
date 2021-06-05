@@ -1,10 +1,7 @@
 # Les types génériques
-Test
+
 Sommaire
 ==============================
-
-
-Coucou
 
 - [Compatibilité avec Jeedom](#paragraphe1)
 - [Tableau des compatibilités](#paragraphe2)
