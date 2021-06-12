@@ -69,15 +69,17 @@ Sur la commande de votre équipement, cliquer sur <img src="../images/gentype/en
 Dans le plugin Jeemate, cliquer sur configuration avancée :
 ![Configuration commande](../images/gentype/configuration_avancee.png)
 
-(1) Cliquer sur l'onglet équipement<br/>
-(2) possibilité de filtrer<br/>
-(3) cliquer sur l'engrenage pour accéder à la configuration des génériques type de l'équipement 
+(1) Cliquer sur l'onglet équipement (ouvert pas défaut)<br/>
+(2) cliquer sur l'engrenage <img src="../images/gentype/engrenage_vert.png" width="50" height="50"> de la pièce contenant vos équipements à modifier.
+(3) Cliquer sur l'équipement pour accéder au commandes :
 
-![jeemate_equipement](../images/gentype/jeemate_equipement.png)
+![Configuration salon](../images/gentype/jeemate_salon.png)
 
 Sur la ou les commmandes spécifier le type générique
 
-![jeemate_equipement](../images/gentype/gentype_01.png)
+![jeemate_equipement](../images/gentype/jeemate_applique.png)
+
+Vous pouvez à partir de cette page configurer les génériques types mais aussi les liens entre les commandes action et info.
 
 
 Exemples de configuration <a name="paragraphe5"></a>
